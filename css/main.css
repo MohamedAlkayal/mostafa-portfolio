@@ -421,26 +421,26 @@ Header {
 }
 
 .one .img {
-  background-image: url("../images/projects/adas.png");
+  background-image: url("../images/projects/adas.webp");
   min-width: 600px;
 }
 .two .img {
-  background-image: url("../images/projects/stopWatch.png");
+  background-image: url("../images/projects/stopWatch.webp");
 }
 
 .three .img {
-  background-image: url("../images/projects/doorLocker.png");
+  background-image: url("../images/projects/doorLocker.webp");
 }
 .four .img {
-  background-image: url("../images/projects/smartHome.png");
+  background-image: url("../images/projects/smartHome.webp");
 
   min-width: 600px;
 }
 .five .img {
-  background-image: url("../images/projects/lidar.png");
+  background-image: url("../images/projects/lidar.webp");
 }
 .six .img {
-  background-image: url("../images/projects/selfDriving.png");
+  background-image: url("../images/projects/selfDriving.webp");
 }
 
 @media (max-width: 767px) {
@@ -481,7 +481,7 @@ Header {
 }
 
 .story .img {
-  background-image: url("../images/about-mostafa.jpeg");
+  background-image: url("../images/about-mostafa.webp");
   background-size: cover;
   background-position: center;
   min-width: 340px;
