@@ -1,3 +1,4 @@
+// Header scroll styling
 window.addEventListener("scroll", function () {
   if (window.scrollY / 1000 > 0.1) {
     $("header").addClass("scrolled");
