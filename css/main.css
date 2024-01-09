@@ -556,9 +556,8 @@ footer .rights {
 
 @media (max-width: 767px) {
   .story .text .big-title {
-    font-size: 34px;
+    font-size: 32px;
   }
-
   footer .text .name {
     font-size: 28px;
   }
